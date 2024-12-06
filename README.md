@@ -25,10 +25,6 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### Other Skills
-- 💡 Problem-solving & Analytical thinking
-- 🤝 Leadership & Communication
-- 🎨 Multidisciplinary work with UX/UI teams
 
 ---
 
@@ -43,22 +39,17 @@
 
 ---
 
-## 🏆 Achievements
-- 🥇 **Award Winner** at the XVII Engineering Projects Fair, Universidad del Norte (2024).
-- 🎖️ **Azure Data Fundamentals (DP-900)** & **Azure Fundamentals (AZ-900)** Certifications.
-- 🌟 Participant in leadership training programs and emotional education initiatives.
-
----
-
-## 📚 Education
-- **Systems and Computer Engineering**, Universidad del Norte (2020 - 2025).
-- **Job Technician in Programming Skills with Emphasis on Web Applications**, Universidad Autónoma de Bucaramanga (2021 - 2022).
-
----
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafamagers&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafamagers&layout=compact&theme=radical)
+
+---
+
+<b>GitHub Trophies 🏆</b>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rafamagers&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rafael Martínez!
 
-🌟 **Passionate Systems Engineer Student | Programmer | Game Developer**
+🌟 **Systems Engineer Student | Programmer | Game Developer**
 
 ---
 
@@ -40,8 +40,6 @@
 ### **Research Assistant at Universidad del Norte** (2023 - Present)
 - Designed a **software tool for descriptive and factorial data analysis**.
 
-### **Integral Calculus Tutor & Data Analysis Monitor** (2021 - Present)
-- Supported students in mastering mathematical concepts and data analysis tools.
 
 ---
 
@@ -55,18 +53,6 @@
 ## 📚 Education
 - **Systems and Computer Engineering**, Universidad del Norte (2020 - 2025).
 - **Job Technician in Programming Skills with Emphasis on Web Applications**, Universidad Autónoma de Bucaramanga (2021 - 2022).
-
----
-
-## 🌟 Projects
-### 🎮 Game Development
-- Built engaging and interactive games using **Unity**.
-  
-### 📊 Data Analysis
-- Co-developed a tool for **descriptive and factorial analysis**, helping researchers streamline data insights.
-
-### 💻 Web Development
-- Collaborated on user-friendly and accessible web applications.
 
 ---
 

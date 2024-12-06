@@ -46,8 +46,7 @@
 
 ---
 
-<b>GitHub Trophies 🏆</b>
-
+## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=rafamagers&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 

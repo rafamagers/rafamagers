@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rafael Martínez!
 
-🌟 **Systems Engineer Student | Programmer | Game Developer**
+🌟 **Systems Engineer Student | Researcher Assistant | Game Developer**
 
 ---
 
